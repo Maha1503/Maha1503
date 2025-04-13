@@ -31,8 +31,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maha1503&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maha1503&theme=github-dark" width="45%" />
 </p>
 
 ---
